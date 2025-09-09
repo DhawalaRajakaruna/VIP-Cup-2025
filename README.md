@@ -1,9 +1,9 @@
-VIP-Cup-2025 🚁📡
+## VIP-Cup-2025 🚁📡
 
 This repository contains all the experiments and testing carried out as part of the VIP-Cup 2025 training and preparation.
 The main focus is on Drone and Payload Detection using both classical and deep learning approaches.
 
-🔬 Experiments & Approaches
+#### 🔬 Experiments & Approaches
 1. Sliding Window Method
 
 Implemented a traditional computer vision approach using a sliding window.
@@ -21,5 +21,3 @@ Drones
 Payloads
 
 Trained on the provided datasets.
-
-Evaluated and compared detection accuracy, speed, and robustness against classical methods.
